@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'bookbuilder'
-  s.version = '0.0.0'
+  s.version = '0.0.1'
   s.date = '2015-03-26'
   s.summary = 'Builds books from markdown'
   s.description = 'thats it...'
